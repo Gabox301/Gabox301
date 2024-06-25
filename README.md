@@ -2,7 +2,7 @@
 
 <h2 align="center"> <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" />✌🏻😎 I'm Gabriel Ortega</h2>
   
-> During the last 5 years, I have worked as a QA in different companies and software projects. My experience has allowed me to acquire extensive knowledge in the area of software testing, as well as skills in bug identification and correction, test design and execution, and test project management. Both manual and automated. In addition, I have developed effective communication and teamwork skills, which allow me to collaborate optimally with developers, project managers, and other team members.
+> During the last 6 years, I have worked as a QA in different companies and software projects. My experience has allowed me to acquire extensive knowledge in the area of software testing, as well as skills in bug identification and correction, test design and execution, and test project management. Both manual and automated. In addition, I have developed effective communication and teamwork skills, which allow me to collaborate optimally with developers, project managers, and other team members.
 
 <p align='center'>
 I am an organized, detail-oriented and results-oriented person, capable of working in high-pressure environments and with tight deadlines.
@@ -62,17 +62,3 @@ hobbies: [Listen Music, Read, Help Juniors and Trainees],
 <p align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Thanks for visiting!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
   
 <p align="center"><img src="https://profile-counter.glitch.me/{Gabox301}/count.svg" alt="Gabox301 :: Visitor's Count" /></p>
-
-<!--
-**Gabox301/Gabox301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
