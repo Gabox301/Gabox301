@@ -20,7 +20,7 @@ I am an organized, detail-oriented and results-oriented person, capable of worki
 
 ---
 
-### 🌐 Cloud 🌐
+### 🌐 Cloud Computing 🌐
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="Amazon Web Services" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="Google Cloud" alt="gcp" width="60" height="60"/>&nbsp;
@@ -29,13 +29,14 @@ I am an organized, detail-oriented and results-oriented person, capable of worki
 
 ---
 
-### 🗃️ Database 🗃️
+### 🗃️ Databases 🗃️
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" title="SQL Server" **alt="SQL Server" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" **alt="MySQL" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" **alt="PostgreSQL" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongo DB" **alt="Mongo" width="50" height="50"/>&nbsp;
 </div>
+
 ---
 
 ### 🛠️ Tools 🛠️
@@ -71,7 +72,7 @@ I am an organized, detail-oriented and results-oriented person, capable of worki
 
 ---
 
-### 🔀 Version control 🔀
+### 🔀 Version Control 🔀
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="50" height="50"/>&nbsp;
@@ -97,7 +98,7 @@ hobbies: [ 'Listen Music', 'Read', 'Help Juniors and Trainees' ]
 
 ---
 
-### 📨 Contact with me 📨
+### 📨 Contact With Me 📨
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabo301/)](https://www.linkedin.com/in/gabo301/)&nbsp;
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5491165209951)](https://api.whatsapp.com/send?phone=5491165209951)&nbsp;
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/Gabo_Ashwin)](https://t.me/Gabo_Ashwin)&nbsp;
