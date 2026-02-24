@@ -16,6 +16,7 @@ I am an organized, detail-oriented and results-oriented person, capable of worki
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" **alt="Golang" width="40" height="40"/>&nbsp;
 </div>
 
 ---
@@ -106,10 +107,4 @@ hobbies: [ 'Listen Music', 'Read', 'Help Juniors and Trainees' ]
 
 ---
 
-![Gabox301's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabox301&count_private=true&include_all_commits=true&show_icons=true&theme=chartreuse-dark)
-
-#
-
 <p align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> Thanks for visiting!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30px">
-  
-<p align="center"><img src="https://profile-counter.glitch.me/{Gabox301}/count.svg" alt="Gabox301 :: Visitor's Count" /></p>
